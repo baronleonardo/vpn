@@ -16,4 +16,5 @@ I made this program to help me connect from a vpn on my mobile to my laptop
 - killall
 - gtk3
 
-
+# Note:
+- you must run this app as a sudoer user (use sudo or pkexec)
