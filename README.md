@@ -2,6 +2,8 @@
 This converts proxy to vpn (by creating a tun network interface)
 I made this program to help me connect from a vpn on my mobile to my laptop
 
+![app screenshot](img/screenshoot.png)
+
 ## hierarchy
 - mobile:
     - Openvpn
